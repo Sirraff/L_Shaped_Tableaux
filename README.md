@@ -1,4 +1,4 @@
-# [Young Tableaux Generator]
+# [ Young Tableaux Generator ]
 This program generates all Young tableaux with the specified height and number of remaining columns, 
 and displays them in a GUI using tkinter. 
 
