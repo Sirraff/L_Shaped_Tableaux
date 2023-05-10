@@ -8,7 +8,7 @@ in a two-dimensional array so that the parts are weakly increasing along each ro
 Dependencies
 - Python 3.x
 - tkinter
-- 
+~~- Pillow~~
 Installation
 1. Download and install Python 3.x from the official website: https://www.python.org/downloads/
 2. Install tkinter by running one of the following commands**:
@@ -27,6 +27,8 @@ Usage
 5. Click the 'Generate' button.
 6. The program will generate and display all valid Young tableaux in the output box, 
    along with a count of the total number of tableaux generated(|λ|).
+   
+   ***Executble file not currently working due to github's size compatibility but available upon request***
    
 Contributing
 
