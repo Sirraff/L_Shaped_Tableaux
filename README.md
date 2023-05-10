@@ -8,7 +8,8 @@ in a two-dimensional array so that the parts are weakly increasing along each ro
 - Python 3.x
 - tkinter
 - ~~Pillow~~
-Installation
+
+### Installation:
 1. Download and install Python 3.x from the official website: https://www.python.org/downloads/
 2. Install tkinter by running one of the following commands**:
 3. a) On Windows: pip install tkinter
