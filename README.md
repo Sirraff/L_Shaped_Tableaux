@@ -8,11 +8,11 @@ This specific Young tableuax project, we'll only be using L-shaped one.
 
 For more information about Young tableaux: 
    
-     https://en.wikipedia.org/wiki/Young_tableau
+   *https://en.wikipedia.org/wiki/Young_tableau
    
-     https://mathworld.wolfram.com/YoungTableau.html
+   *https://mathworld.wolfram.com/YoungTableau.html
    
-     ["What is a Young Tableau?" by Alexander Yong](https://www.ams.org/notices/200702/whatis-yong.pdf)
+   *["What is a Young Tableau?" by Alexander Yong](https://www.ams.org/notices/200702/whatis-yong.pdf)
 
 ### Dependencies:
 - Python 3.x
