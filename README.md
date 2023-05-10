@@ -1,8 +1,15 @@
 # Young Tableaux Generator
 This program generates all Young tableaux with the specified height and number of remaining columns, 
 and displays them in a GUI using tkinter. 
+
 A Young tableau is a way of representing a partition of a positive integer by arranging its parts
-in a two-dimensional array so that the parts are weakly increasing along each row and strictly increasing down each column.
+in a two-dimensional array so that the parts are strictly increasing along each row and down each column.
+This specific Young tableuax project, we'll only be using L-shaped one.
+
+For more information about Young tableaux: 
+   https://en.wikipedia.org/wiki/Young_tableau
+   https://mathworld.wolfram.com/YoungTableau.html
+   ["What is a Young Tableau?" by Alexander Yong](https://www.ams.org/notices/200702/whatis-yong.pdf)
 
 ### Dependencies:
 - Python 3.x
