@@ -31,7 +31,7 @@ Installation
    
 ### Contributing:
 
-Contributions to this project are welcome! To contribute:
+**Contributions to this project are welcome! To contribute:
 
 1. Fork this repository.
 2. Create a new branch with your changes: git checkout -b my-feature-branch
