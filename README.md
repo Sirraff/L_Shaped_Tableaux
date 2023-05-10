@@ -1,11 +1,10 @@
-# L_Shaped_Tableaux
-Young Tableaux Generator
+#Young Tableaux Generator
 This program generates all Young tableaux with the specified height and number of remaining columns, 
 and displays them in a GUI using tkinter. 
 A Young tableau is a way of representing a partition of a positive integer by arranging its parts
 in a two-dimensional array so that the parts are weakly increasing along each row and strictly increasing down each column.
 
-Dependencies
+###Dependencies:
 - Python 3.x
 - tkinter
 ~~- Pillow~~
@@ -19,7 +18,7 @@ Installation
      ImportError: No module named _tkinter"
      - To fix this, install python with the package specification: brew install python-tk
    
-Usage
+###Usage:
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing the young_tableaux.py file.
 3. Type the following command and press Enter: python3 young_tableaux.py
@@ -30,7 +29,7 @@ Usage
    
    ***Executble file not currently working due to github's size compatibility but available upon request***
    
-Contributing
+###Contributing:
 
 Contributions to this project are welcome! To contribute:
 
@@ -41,9 +40,9 @@ Contributions to this project are welcome! To contribute:
 5. Create a pull request from your fork to the original repository.
 
 
-Contact
+###Contact:
 Name: Rafael L.S Reis
 Email: rafael.ls.reis@gmail.com
 
-License
+###License:
 This program is licensed under the MIT License. See the LICENSE file for more information.
