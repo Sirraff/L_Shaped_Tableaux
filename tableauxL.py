@@ -1,3 +1,15 @@
+"""
+
+Young Tableaux Generator
+Date: May 10, 2023
+Author: Rafael L.S Reis
+Contact: rafael.ls.reis@gmail.com
+
+This program generates all Young tableaux with 
+the specified height and number of remaining columns, 
+and displays them in a GUI using tkinter.
+
+"""
 import tkinter as tk
 from itertools import combinations
 
