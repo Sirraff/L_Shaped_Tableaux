@@ -7,7 +7,7 @@ in a two-dimensional array so that the parts are weakly increasing along each ro
 ### Dependencies:
 - Python 3.x
 - tkinter
-~~- Pillow~~
+- ~~Pillow~~
 Installation
 1. Download and install Python 3.x from the official website: https://www.python.org/downloads/
 2. Install tkinter by running one of the following commands**:
