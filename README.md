@@ -57,4 +57,4 @@ Name: Rafael L.S Reis
 Email: rafael.ls.reis@gmail.com
 
 ### License:
-This program is licensed under the MIT License. See the [LICENSE](blob/main/LICENSE.txt) file for more information.
+This program is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more information.
