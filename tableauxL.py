@@ -29,6 +29,8 @@ def generate_tableaux():
         remaining_numbers = sorted(list(set(numbers) - set(comb)))
 
         # cheesing it -> Checking if the first number of first_column is 1
+        # Removing this if statement will work and generate sequences starting with 
+        # other integers
         if first_column[0] != 1:
             continue
 
