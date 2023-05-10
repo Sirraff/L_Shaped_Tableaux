@@ -1,4 +1,4 @@
-# Young Tableaux Generator
+# [Young Tableaux Generator]
 This program generates all Young tableaux with the specified height and number of remaining columns, 
 and displays them in a GUI using tkinter. 
 
@@ -53,7 +53,8 @@ For more information about Young tableaux:
 
 ### Contact:
 Name: Rafael L.S Reis
+
 Email: rafael.ls.reis@gmail.com
 
 ### License:
-This program is licensed under the MIT License. See the LICENSE file for more information.
+This program is licensed under the MIT License. See the [LICENSE](blob/main/LICENSE.txt) file for more information.
