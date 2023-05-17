@@ -17,7 +17,9 @@ For more information about Young tableaux:
 ### Dependencies:
 - Python 3.x
 - tkinter
-- ~~Pillow~~
+- requests
+- webbrowser
+- itertools
 
 ### Installation:
 1. Download and install Python 3.x from the official website: https://www.python.org/downloads/
