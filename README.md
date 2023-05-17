@@ -40,7 +40,7 @@ For more information about Young tableaux:
 6. The program will generate and display all valid Young tableaux in the output box, 
    along with a count of the total number of tableaux generated(|λ|).
    
-   ***Executble file not currently working due to github's size compatibility but available upon request***
+   ***Executble available upon request***
    
 ### Contributing:
 
